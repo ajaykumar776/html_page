@@ -1,2 +1,2 @@
-# portfolio
-https://github.com/ajaykumar776/projects_details_in_pdf
+#Projects deatils
+docs.google.com/document/d/123_xQC-aSIXFuXQJwWmm8F8p3-qTjPvAM0acfM_ufXY/edit
